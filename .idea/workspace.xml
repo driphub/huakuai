@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff2600b2-7ad0-43fa-a2b7-df67483985a5" name="Default" comment="" />
+    <list default="true" id="ff2600b2-7ad0-43fa-a2b7-df67483985a5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/readme" beforeDir="false" afterPath="$PROJECT_DIR$/readme" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,12 +13,12 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/huaikua_identifier$show.coverage" NAME="show Coverage Results" MODIFIED="1577036526792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/huaikua_identifier$main.coverage" NAME="main Coverage Results" MODIFIED="1577036686102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/huaikua_identifier$main.coverage" NAME="main Coverage Results" MODIFIED="1577037229087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/huaikua2$img_vertical_border.coverage" NAME="img_vertical_border Coverage Results" MODIFIED="1576550596457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="img_vertical_border.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="img_vertical_border.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img_vertical_border.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="268">
@@ -32,14 +34,18 @@
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readme" pinned="false" current-in-tab="false">
+      <file leaf-file-name="readme" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -51,6 +57,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -58,6 +67,7 @@
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/show.py" />
         <option value="$PROJECT_DIR$/img_vertical_border.py" />
+        <option value="$PROJECT_DIR$/readme" />
       </list>
     </option>
   </component>
@@ -76,6 +86,7 @@
     <option name="width" value="1313" />
     <option name="height" value="892" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -208,15 +219,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="117" y="125" width="1313" height="892" extended-state="0" />
+    <frame x="121" y="119" width="1313" height="892" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33289474" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30988142" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -225,7 +236,7 @@
       <window_info anchor="right" x="65" y="24" width="1855" height="1056" id="SciView" order="3" weight="0.32946485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39895013" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39895013" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -277,9 +288,6 @@
     <entry file="file://$PROJECT_DIR$/refer/1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tools.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -290,13 +298,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img_vertical_border.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
@@ -304,6 +305,20 @@
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
         </state>
       </provider>
     </entry>
